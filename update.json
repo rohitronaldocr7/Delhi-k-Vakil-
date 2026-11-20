@@ -1,0 +1,6 @@
+{
+  "versionCode": 5,
+  "versionName": "1.0.1",
+  "apkUrl": "https://raw.githubusercontent.com/rohitronaldocr7/Delhi-k-Vakil-/main/releases/DelhiKVakil-1.0.1.apk",
+  "changelog": "1.0.1. A blank Update URL now uses this public file, and you can still replace it with another address. This build installs over the existing Delhi k Vakil app."
+}
