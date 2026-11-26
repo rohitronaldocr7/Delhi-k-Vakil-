@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.1",
-  "apkUrl": "https://raw.githubusercontent.com/rohitronaldocr7/Delhi-k-Vakil-/main/releases/DelhiKVakil-1.0.1.apk",
-  "changelog": "1.0.1. A blank Update URL now uses this public file, and you can still replace it with another address. This build installs over the existing Delhi k Vakil app."
+  "versionCode": 6,
+  "versionName": "1.0.2",
+  "apkUrl": "https://raw.githubusercontent.com/rohitronaldocr7/Delhi-k-Vakil-/main/releases/DelhiKVakil-1.0.2.apk",
+  "changelog": "Add a case from a photo or screenshot. The phone reads the text on its own. Improve with AI stays off unless you tap it and already saved your own key."
 }
